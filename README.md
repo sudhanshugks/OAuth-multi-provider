@@ -53,7 +53,7 @@ OAuth-Multi-Provider/
 │               └── application.properties # Backend configurations & Keys
 │
 ├── frontend/                            # React + Vite Application
-│   ├── index.html                       # Entry HTML
+│   ├── index.html                       
 │   ├── package.json                     # Node dependencies
 │   ├── vite.config.js                   # Vite configuration
 │   └── src/                             # React source code
@@ -62,7 +62,7 @@ OAuth-Multi-Provider/
 │       └── main.jsx                     # React DOM entry point
 │
 ├── run-app.bat                          # One-click startup script for Windows
-└── README.md                            # Project documentation
+└── README.md                            
 ```
 
 ---
