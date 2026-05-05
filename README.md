@@ -67,7 +67,7 @@ OAuth-Multi-Provider/
 
 ---
 
-## ✨ Features
+## Features
 
 * **Multi-Provider Login:** Login options for Google, GitHub, and LinkedIn.
 * **Unified Dashboard:** Consolidated view post-login, regardless of the provider used.
@@ -76,7 +76,7 @@ OAuth-Multi-Provider/
 
 ---
 
-## 💻 Prerequisites
+## Prerequisites
 
 Ensure you have the following installed before running the application:
 
@@ -86,7 +86,7 @@ Ensure you have the following installed before running the application:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Configure OAuth2 Credentials
 
@@ -126,7 +126,7 @@ npm install
 
 ---
 
-## 🏃 Running the Application
+## Running the Application
 
 ### Option A: The Easy Way (Windows)
 
@@ -152,7 +152,7 @@ npm run dev
 
 ---
 
-## 🔄 Usage Flow
+## Usage Flow
 
 1. Open your browser and go to `http://localhost:3000`.
 2. Click your preferred OAuth provider (Google, GitHub, or LinkedIn).
