@@ -4,7 +4,7 @@ A full-stack web application implementing a unified, multi-provider authenticati
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Overview](#-overview)
 - [Tech Stack](#-tech-stack)
